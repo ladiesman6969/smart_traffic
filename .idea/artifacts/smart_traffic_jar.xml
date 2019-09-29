@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smart_traffic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/smart_traffic_jar</output-path>
+    <root id="archive" name="smart_traffic.jar">
+      <element id="module-output" name="smart_traffic" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.8/jfoenix-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../opencv_java/opencv/build/java/opencv-411.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
